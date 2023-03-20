@@ -8,3 +8,6 @@ Shows you how lyrically talented they are by the size of their vocabulary.
 
 It still needs some work. The get artist catalog grabs songs that may not be the artist for some reason, maybe because the artists name appears on the page? Not sure. I could add some code to do some filtering.
 It also appears to filter or limit the amount of results at around 48 songs, and I am not sure why. 
+
+it doesn't account for a lot of things like in "rap god" where the first part is someone elses voice/words not the artist. 
+and it doesn't account for if the chorus or another verse is sung by another artist. take it with a grain of salt but the numbers will still show you something.
