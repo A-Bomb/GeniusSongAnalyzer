@@ -1,3 +1,5 @@
+Feb 2025 - At some point the people at genius ripped out the ability to pull lyrics from their api so it's essentially useless now. Feel free to try and fix it if you can.
+
 # GeniusSongAnalyzer
 Grabs your favorite song or artist from genius and shows you how many unique words there are.
 Shows you how lyrically talented they are by the size of their vocabulary.
